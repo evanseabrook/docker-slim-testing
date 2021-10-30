@@ -15,7 +15,7 @@ public class ApiApplication {
 
 	@GetMapping("/")
 	public String index() {
-		return "Hello there";
+		return "<p>Hello there</p>";
 	}
 
 }

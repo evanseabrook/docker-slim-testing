@@ -2,3 +2,4 @@
 .DS_Store
 java/target
 python/.venv
+slim.report.json
